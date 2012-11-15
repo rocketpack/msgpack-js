@@ -470,4 +470,3 @@ function sizeof(value) {
   throw new Error("Unknown type " + type);
 }
 
-

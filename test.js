@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-var msgpack = require('./msgpack');
+var msgpack = require('./index');
 var util = require('util');
 var assert = require('assert');
 
